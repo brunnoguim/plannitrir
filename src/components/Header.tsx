@@ -60,7 +60,7 @@ export const Header = () => {
       <IconContainer onClick={router.pathname.startsWith('/plan') ? () => navHome() : undefined} disabled={router.pathname.startsWith('/plan') ? false : true}>
         <Image
           alt={'Logo plannit'}
-          src={'/../public/plannit.png'}
+          src={'/plannit.png'}
           height={40}
           width={40}
           priority
