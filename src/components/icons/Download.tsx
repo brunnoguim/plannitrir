@@ -15,9 +15,9 @@ const Icon = styled.svg<Props>`
   bottom: 28px;
   right: 16px;
   z-index: 5;
-  fill: #000000d3;
+  fill: #00b975;
   &:hover{
-    fill: #18815b;
+    fill: #00925d;
     bottom: 30px;
     right: 13px;
   }
