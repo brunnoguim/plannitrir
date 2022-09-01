@@ -3,9 +3,9 @@ import Router from 'next/router'
 
 const Wrapper = styled.div`
   height: 80px;
-  width: 400px;
+  width: 100%;
   display: grid;
-	grid-template-columns: 130px 270px;
+	grid-template-columns: 130px 1fr;
   cursor: pointer;
   &:hover{
     filter: contrast(107%) saturate(110%);

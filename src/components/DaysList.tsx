@@ -4,7 +4,7 @@ import { useContext } from 'react'
 import { PostitsContext } from '../contexts/PostitsContext'
 
 const Wrapper = styled.div`
-  width: 400px;
+  width: 100%;
   display: grid;
 	grid-template-rows: 1fr;
   grid-gap: 1em;

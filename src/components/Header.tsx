@@ -1,14 +1,28 @@
 import styled from 'styled-components'
 import Router, { useRouter } from 'next/router'
+import Image from 'next/image'
 
 const Container = styled.div`
   width: 100%;
   height: 80px;
   display: flex;
   justify-content: space-between;
-  padding: 2em 3em;
+  padding: 1em 3em;
   align-items: center;
   margin-bottom: 1em;
+  background-color: transparent;
+`
+
+const IconContainer = styled.div<HeaderTextProps>`
+  display: flex;
+  justify-content: space-between;
+  transition: 0.1s;
+  height: 40px;
+  cursor: ${(props) => props.disabled ? '' : 'pointer'};
+  &:hover{
+    filter: ${(props) => props.disabled ? '' : 'contrast(150%)'};
+  }
+  background-color: transparent;
 `
 
 const Subcontainer = styled.div`
@@ -25,13 +39,12 @@ interface HeaderTextProps {
 
 const HeaderText = styled.h1<HeaderTextProps>`
   font-weight: 700;
+  line-height: 40px;
+  padding-left: 10px;
   font-size: 24px;
   text-align: ${(props) => props.right ? 'right' : ''};
-  cursor: ${(props) => props.disabled ? '' : 'pointer'};
   color: white;
-  &:hover{
-    text-shadow: ${(props) => props.disabled ? '' : '0px 0px 1.5px #ffffff'};
-  }
+  background-color: transparent;
 `
 
 export const Header = () => {
@@ -44,7 +57,17 @@ export const Header = () => {
 
   return (
     <Container>
-      <HeaderText onClick={router.pathname.startsWith('/plan') ? () => navHome() : undefined} disabled={router.pathname.startsWith('/plan') ? false : true}>Plannit RiR</HeaderText>
+      <IconContainer onClick={router.pathname.startsWith('/plan') ? () => navHome() : undefined} disabled={router.pathname.startsWith('/plan') ? false : true}>
+        <Image
+          alt={'Logo plannit'}
+          src={'/../public/plannit.png'}
+          height={40}
+          width={40}
+          priority
+          style={{ backgroundColor: 'transparent' }}
+        />
+        <HeaderText>Plannit RiR</HeaderText>
+      </IconContainer>
       {/* {router.pathname.startsWith('/plan') ? (
         <Subcontainer>
           <HeaderText right>Como usar</HeaderText>

@@ -6,19 +6,22 @@ const Container = styled.div`
   display: grid;
   width: 100vw;
   grid-gap: 4em;
-	grid-template-columns:repeat(auto-fit, minmax(400px, 414px));
+	grid-template-columns:repeat(auto-fit, minmax(390px, 450px));
   grid-auto-rows:minmax(800px, 800px);
+  padding-bottom: 1.5em;
   justify-content: center;
+  overflow-x: hidden;
 `
 
 const DivText = styled.div`
   display: flex;
   flex-direction: column;
+  padding: 0 1.5em;
 `
 
 const Title = styled.h1`
   color: white;
-  width: 400px;
+  width: 100%;
   font-weight: 600;
   font-size: 32px;
   text-align: center;
