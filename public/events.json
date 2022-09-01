@@ -1,0 +1,1311 @@
+[
+  {
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "shows": [
+      {
+        "time": "00:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Dream Theater"
+      },
+      {
+        "time": "22:20",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Iron Maiden"
+      },
+      {
+        "time": "20:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Gojira"
+      },
+      {
+        "time": "18:00",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Sepultura + OSB"
+      },
+      {
+        "time": "21:15",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Bullet For My Valentine"
+      },
+      {
+        "time": "19:05",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Living Colour + Steve Vai"
+      },
+      {
+        "time": "16:55",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Metal Allegiance"
+      },
+      {
+        "time": "15:30",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Black Pantera + Devotos"
+      },
+      {
+        "time": "02:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Len Faki"
+      },
+      {
+        "time": "00:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Renato Ratier Vs Diogo A."
+      },
+      {
+        "time": "23:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Ananda"
+      },
+      {
+        "time": "21:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Victoria Engel"
+      },
+      {
+        "time": "20:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Valentina Luz"
+      },
+      {
+        "time": "18:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Binaryh"
+      },
+      {
+        "time": "17:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Flo Masse Vs Craig O."
+      },
+      {
+        "time": "16:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Chang Rodrigues Live"
+      },
+      {
+        "time": "20:05",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Gangrena Gasosa"
+      },
+      {
+        "time": "17:55",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Affront"
+      },
+      {
+        "time": "16:30",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Revengin"
+      },
+      {
+        "time": "19:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Ratos de Porão"
+      },
+      {
+        "time": "18:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Matanza Ritual"
+      },
+      {
+        "time": "17:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Surra"
+      },
+      {
+        "time": "16:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Crypta"
+      },
+      {
+        "time": "20:00",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Oitão"
+      },
+      {
+        "time": "18:30",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Noturnall"
+      },
+      {
+        "time": "16:30",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Eminence"
+      },
+      {
+        "time": "15:00",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Sioux 66"
+      },
+      {
+        "time": "16:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "Pedro M. + BB"
+      },
+      {
+        "time": "15:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "JP Bonfá e Betta"
+      },
+      {
+        "time": "17:10",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "O. Mundana Refugi"
+      },
+      {
+        "time": "16:30",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Wallace Oliveira"
+      },
+      {
+        "time": "15:15",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Terra Celta"
+      }
+    ]
+  },
+  {
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "shows": [
+      {
+        "time": "00:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Post Malone"
+      },
+      {
+        "time": "22:20",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Marshmello"
+      },
+      {
+        "time": "20:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Jason Derulo"
+      },
+      {
+        "time": "18:00",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Alok"
+      },
+      {
+        "time": "21:15",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Racionais MC's"
+      },
+      {
+        "time": "19:05",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Criolo + Mayra Andrade"
+      },
+      {
+        "time": "16:55",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Xamã + Brô MC's"
+      },
+      {
+        "time": "15:30",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Papatinho e L7 + Hariel e Carol"
+      },
+      {
+        "time": "23:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Carola"
+      },
+      {
+        "time": "22:15",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Groove Delight"
+      },
+      {
+        "time": "20:45",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Kvsh"
+      },
+      {
+        "time": "19:15",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Illusionize"
+      },
+      {
+        "time": "18:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Victor Lou"
+      },
+      {
+        "time": "17:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Alamanac"
+      },
+      {
+        "time": "16:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Fluxzone"
+      },
+      {
+        "time": "20:05",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "PK convida Don Juan"
+      },
+      {
+        "time": "17:55",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Bin"
+      },
+      {
+        "time": "16:30",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Azula"
+      },
+      {
+        "time": "19:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Teto"
+      },
+      {
+        "time": "18:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "MC Poze e Bielzin"
+      },
+      {
+        "time": "17:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Yunk Vino"
+      },
+      {
+        "time": "16:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Hiosaki"
+      },
+      {
+        "time": "15:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Ike"
+      },
+      {
+        "time": "19:10",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Wilson S. Tropical Blues"
+      },
+      {
+        "time": "17:00",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Malvada"
+      },
+      {
+        "time": "15:20",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Rock Street Band"
+      },
+      {
+        "time": "16:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "Betta"
+      },
+      {
+        "time": "15:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "Pedro M., BB e JP Bonfá"
+      },
+      {
+        "time": "17:10",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "O. Mundana Refugi"
+      },
+      {
+        "time": "16:30",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Wallace Oliveira"
+      },
+      {
+        "time": "15:15",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Terra Celta"
+      }
+    ]
+  },
+  {
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "shows": [
+      {
+        "time": "00:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Justin Bieber"
+      },
+      {
+        "time": "22:20",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Demi Lovato"
+      },
+      {
+        "time": "20:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Iza"
+      },
+      {
+        "time": "18:00",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Jota Quest"
+      },
+      {
+        "time": "21:15",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Gilberto Gil e família"
+      },
+      {
+        "time": "19:05",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Emicida, Drik, Rael e [...]"
+      },
+      {
+        "time": "16:55",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Luísa Sonza + Marina Sena"
+      },
+      {
+        "time": "15:30",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Matuê"
+      },
+      {
+        "time": "23:15",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Samhara"
+      },
+      {
+        "time": "22:15",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Sickick"
+      },
+      {
+        "time": "20:45",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Dubdogz"
+      },
+      {
+        "time": "19:15",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Cat Dealers"
+      },
+      {
+        "time": "18:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Gabe"
+      },
+      {
+        "time": "17:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Öwnboss"
+      },
+      {
+        "time": "16:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Maz"
+      },
+      {
+        "time": "20:05",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Funk Orquestra"
+      },
+      {
+        "time": "17:55",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Buchecha"
+      },
+      {
+        "time": "16:30",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Taylan"
+      },
+      {
+        "time": "19:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Lil Whind"
+      },
+      {
+        "time": "17:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Wc no Beat, Felp e [...]"
+      },
+      {
+        "time": "19:10",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Evandro M. e Fabulous Tab"
+      },
+      {
+        "time": "17:00",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Lucy Alves"
+      },
+      {
+        "time": "15:20",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Fonk's Gang"
+      },
+      {
+        "time": "16:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "JP Bonfá"
+      },
+      {
+        "time": "15:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "Betta, Pedro M. e BB"
+      },
+      {
+        "time": "17:10",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "O. Mundana Refugi"
+      },
+      {
+        "time": "16:30",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Wallace Oliveira"
+      },
+      {
+        "time": "15:15",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Terra Celta"
+      }
+    ]
+  },
+  {
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "shows": [
+      {
+        "time": "00:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Guns N' Roses"
+      },
+      {
+        "time": "22:20",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Måneskin"
+      },
+      {
+        "time": "20:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Offspring"
+      },
+      {
+        "time": "18:00",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "CPM 22"
+      },
+      {
+        "time": "21:15",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Jessie J"
+      },
+      {
+        "time": "19:05",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Corinne Bailey Rae"
+      },
+      {
+        "time": "16:55",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Gloria Groove"
+      },
+      {
+        "time": "15:30",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Duda Beat"
+      },
+      {
+        "time": "00:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Sarah Stenzel"
+      },
+      {
+        "time": "22:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Ben Böhmer"
+      },
+      {
+        "time": "21:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Gui Boratto"
+      },
+      {
+        "time": "20:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Du Serena Vs Junior C"
+      },
+      {
+        "time": "18:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Leo Janeiro Vs Nepal"
+      },
+      {
+        "time": "17:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Marta Supernova"
+      },
+      {
+        "time": "16:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Nu Azeite Live"
+      },
+      {
+        "time": "20:55",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Drenna"
+      },
+      {
+        "time": "17:55",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "TH4I convida Lia Clark"
+      },
+      {
+        "time": "16:30",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Izzra"
+      },
+      {
+        "time": "19:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Francisco, el Hombre"
+      },
+      {
+        "time": "18:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "O Grilo"
+      },
+      {
+        "time": "17:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Scatolove"
+      },
+      {
+        "time": "16:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Cali"
+      },
+      {
+        "time": "20:30",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Rock Street Band"
+      },
+      {
+        "time": "19:10",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Rodrigo Santos"
+      },
+      {
+        "time": "17:00",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Stormsons"
+      },
+      {
+        "time": "16:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "Pedro M. + BB"
+      },
+      {
+        "time": "15:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "JP Bonfá + Betta"
+      },
+      {
+        "time": "17:10",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Mariel & Crème de la Crème"
+      },
+      {
+        "time": "16:30",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Wallace Oliveira"
+      },
+      {
+        "time": "15:15",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Terra Celta"
+      }
+    ]
+  },
+  {
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "shows": [
+      {
+        "time": "00:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Green Day"
+      },
+      {
+        "time": "22:20",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Fall Out Boy"
+      },
+      {
+        "time": "20:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Billy Idol"
+      },
+      {
+        "time": "18:00",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Capital Inicial"
+      },
+      {
+        "time": "21:15",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Avril Lavigne"
+      },
+      {
+        "time": "19:05",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "1985: A homenagem"
+      },
+      {
+        "time": "16:55",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Jão + convidado"
+      },
+      {
+        "time": "15:30",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Di Ferrero + Vitor Kley"
+      },
+      {
+        "time": "00:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Paranormal Attack C"
+      },
+      {
+        "time": "22:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Vegas"
+      },
+      {
+        "time": "21:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Rica Amaral"
+      },
+      {
+        "time": "19:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Aly & Fila"
+      },
+      {
+        "time": "17:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Antdot"
+      },
+      {
+        "time": "16:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Meca"
+      },
+      {
+        "time": "20:05",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "MD Chefe e Domlaike"
+      },
+      {
+        "time": "17:55",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Choice"
+      },
+      {
+        "time": "16:30",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Marvvila"
+      },
+      {
+        "time": "19:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Supercombo"
+      },
+      {
+        "time": "18:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Castello Branco"
+      },
+      {
+        "time": "17:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Sebastianis-mos"
+      },
+      {
+        "time": "16:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Number Teddie"
+      },
+      {
+        "time": "20:30",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Rock Street Band"
+      },
+      {
+        "time": "19:10",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Fernando Badauí"
+      },
+      {
+        "time": "17:00",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Deia Cassali"
+      },
+      {
+        "time": "15:20",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "The Lokomotiv"
+      },
+      {
+        "time": "16:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "JP Bonfá"
+      },
+      {
+        "time": "15:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "Pedro M. + BB + Betta"
+      },
+      {
+        "time": "17:10",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Mariel & Crème de la Crème"
+      },
+      {
+        "time": "16:30",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Wallace Oliveira"
+      },
+      {
+        "time": "15:15",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Terra Celta"
+      }
+    ]
+  },
+  {
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "shows": [
+      {
+        "time": "00:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Coldplay"
+      },
+      {
+        "time": "22:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Camila Cabello"
+      },
+      {
+        "time": "20:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Bastille"
+      },
+      {
+        "time": "18:00",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Djavan"
+      },
+      {
+        "time": "21:15",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "CeeLo Green"
+      },
+      {
+        "time": "19:05",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Maria Rita + convidado"
+      },
+      {
+        "time": "16:55",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Gilsons + Jorge Aragão"
+      },
+      {
+        "time": "15:30",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Bala Desejo + convidado"
+      },
+      {
+        "time": "23:45",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Curol"
+      },
+      {
+        "time": "22:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Gabriel Boni"
+      },
+      {
+        "time": "21:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Makj"
+      },
+      {
+        "time": "20:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "The Fish House"
+      },
+      {
+        "time": "18:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Chemical Surf"
+      },
+      {
+        "time": "17:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Bruno Be Vs Fancy Inc"
+      },
+      {
+        "time": "16:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Alexiz Bcx"
+      },
+      {
+        "time": "20:05",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Ferrugem e Thiaguinho"
+      },
+      {
+        "time": "17:55",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Orochi"
+      },
+      {
+        "time": "16:30",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "El Pavuna"
+      },
+      {
+        "time": "19:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Jovem Dionísio"
+      },
+      {
+        "time": "18:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Daparte"
+      },
+      {
+        "time": "17:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "João Napoli e Ananda"
+      },
+      {
+        "time": "16:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Macacko"
+      },
+      {
+        "time": "20:30",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Rock Street Band"
+      },
+      {
+        "time": "19:00",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "All Stars Rock Band"
+      },
+      {
+        "time": "17:00",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Thiago Fragoso"
+      },
+      {
+        "time": "16:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "Pedro M. + BB"
+      },
+      {
+        "time": "15:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "Betta + JP Bonfá"
+      },
+      {
+        "time": "17:10",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Mariel & Crème de la Crème"
+      },
+      {
+        "time": "16:30",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Wallace Oliveira"
+      },
+      {
+        "time": "15:15",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Terra Celta"
+      }
+    ]
+  },
+  {
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "shows": [
+      {
+        "time": "00:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Dua Lipa"
+      },
+      {
+        "time": "22:20",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Megan Thee Stallion"
+      },
+      {
+        "time": "20:10",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Rita Ora"
+      },
+      {
+        "time": "18:00",
+        "stage": "Palco Mundo",
+        "selected": false,
+        "artist": "Ivete Sangalo"
+      },
+      {
+        "time": "21:15",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Ludmilla"
+      },
+      {
+        "time": "19:05",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Macy Gray"
+      },
+      {
+        "time": "16:55",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Power! Elza Vive"
+      },
+      {
+        "time": "15:30",
+        "stage": "Palco Sunset",
+        "selected": false,
+        "artist": "Liniker + Luedji Luna"
+      },
+      {
+        "time": "00:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Eli Iwasa"
+      },
+      {
+        "time": "22:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Blond:Ish"
+      },
+      {
+        "time": "21:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Ella De Vuono"
+      },
+      {
+        "time": "19:30",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Anabel Englund"
+      },
+      {
+        "time": "18:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Aline Rocha"
+      },
+      {
+        "time": "16:00",
+        "stage": "New Dance Order",
+        "selected": false,
+        "artist": "Mary Olivetti"
+      },
+      {
+        "time": "20:05",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Lexa"
+      },
+      {
+        "time": "17:55",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Azzy"
+      },
+      {
+        "time": "16:30",
+        "stage": "Espaço Favela",
+        "selected": false,
+        "artist": "Ella Fernandes"
+      },
+      {
+        "time": "19:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Priscilla Alcântara"
+      },
+      {
+        "time": "18:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Bianca"
+      },
+      {
+        "time": "17:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Mariah Nala"
+      },
+      {
+        "time": "16:30",
+        "stage": "Palco Supernova",
+        "selected": false,
+        "artist": "Muse Maya"
+      },
+      {
+        "time": "20:30",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Rock Street Band"
+      },
+      {
+        "time": "19:10",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Flausino e Sideral"
+      },
+      {
+        "time": "17:00",
+        "stage": "Rock District",
+        "selected": false,
+        "artist": "Di Ferreiro"
+      },
+      {
+        "time": "16:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "Pedro M. + BB"
+      },
+      {
+        "time": "15:00",
+        "stage": "Highway Stage",
+        "selected": false,
+        "artist": "Betta + JP Bonfá"
+      },
+      {
+        "time": "17:10",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Mariel & Crème de la Crème"
+      },
+      {
+        "time": "16:30",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Wallace Oliveira"
+      },
+      {
+        "time": "15:15",
+        "stage": "Rock Street Mediterrâneo",
+        "selected": false,
+        "artist": "Terra Celta"
+      }
+    ]
+  }
+]

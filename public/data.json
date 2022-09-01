@@ -1,0 +1,2102 @@
+[
+  {
+    "artist": "Dream Theater",
+    "time": "00:10",
+    "stage": "Palco Mundo",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 1,
+    "angle": 1
+  },
+  {
+    "artist": "Iron Maiden",
+    "time": "22:20",
+    "stage": "Palco Mundo",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 2,
+    "angle": -2
+  },
+  {
+    "artist": "Gojira",
+    "time": "20:10",
+    "stage": "Palco Mundo",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 3,
+    "angle": -2
+  },
+  {
+    "artist": "Sepultura + OSB",
+    "time": "18:00",
+    "stage": "Palco Mundo",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 4,
+    "angle": -1
+  },
+  {
+    "artist": "Bullet For My Valentine",
+    "time": "21:15",
+    "stage": "Palco Sunset",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 5,
+    "angle": 1
+  },
+  {
+    "artist": "Living Colour + Steve Vai",
+    "time": "19:05",
+    "stage": "Palco Sunset",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 6,
+    "angle": 1
+  },
+  {
+    "artist": "Metal Allegiance",
+    "time": "16:55",
+    "stage": "Palco Sunset",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 7,
+    "angle": 3
+  },
+  {
+    "artist": "Black Pantera + Devotos",
+    "time": "15:30",
+    "stage": "Palco Sunset",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 8,
+    "angle": -1
+  },
+  {
+    "artist": "Len Faki",
+    "time": "02:00",
+    "stage": "New Dance Order",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 9,
+    "angle": -2
+  },
+  {
+    "artist": "Renato Ratier Vs Diogo A.",
+    "time": "00:30",
+    "stage": "New Dance Order",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 10,
+    "angle": 1
+  },
+  {
+    "artist": "Ananda",
+    "time": "23:00",
+    "stage": "New Dance Order",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 11,
+    "angle": 1
+  },
+  {
+    "artist": "Victoria Engel",
+    "time": "21:30",
+    "stage": "New Dance Order",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 12,
+    "angle": 2
+  },
+  {
+    "artist": "Valentina Luz",
+    "time": "20:00",
+    "stage": "New Dance Order",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 13,
+    "angle": -3
+  },
+  {
+    "artist": "Binaryh",
+    "time": "18:30",
+    "stage": "New Dance Order",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 14,
+    "angle": -2
+  },
+  {
+    "artist": "Flo Masse Vs Craig O.",
+    "time": "17:00",
+    "stage": "New Dance Order",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 15,
+    "angle": 3
+  },
+  {
+    "artist": "Chang Rodrigues Live",
+    "time": "16:00",
+    "stage": "New Dance Order",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 16,
+    "angle": -3
+  },
+  {
+    "artist": "Gangrena Gasosa",
+    "time": "20:05",
+    "stage": "Espaço Favela",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 17,
+    "angle": -3
+  },
+  {
+    "artist": "Affront",
+    "time": "17:55",
+    "stage": "Espaço Favela",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 18,
+    "angle": -3
+  },
+  {
+    "artist": "Revengin",
+    "time": "16:30",
+    "stage": "Espaço Favela",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 19,
+    "angle": 1
+  },
+  {
+    "artist": "Ratos de Porão",
+    "time": "19:30",
+    "stage": "Palco Supernova",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 20,
+    "angle": 1
+  },
+  {
+    "artist": "Matanza Ritual",
+    "time": "18:30",
+    "stage": "Palco Supernova",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 21,
+    "angle": -2
+  },
+  {
+    "artist": "Surra",
+    "time": "17:30",
+    "stage": "Palco Supernova",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 22,
+    "angle": -2
+  },
+  {
+    "artist": "Crypta",
+    "time": "16:30",
+    "stage": "Palco Supernova",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 23,
+    "angle": -2
+  },
+  {
+    "artist": "Oitão",
+    "time": "20:00",
+    "stage": "Rock District",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 24,
+    "angle": -3
+  },
+  {
+    "artist": "Noturnall",
+    "time": "18:30",
+    "stage": "Rock District",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 25,
+    "angle": 3
+  },
+  {
+    "artist": "Eminence",
+    "time": "16:30",
+    "stage": "Rock District",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 26,
+    "angle": 2
+  },
+  {
+    "artist": "Sioux 66",
+    "time": "15:00",
+    "stage": "Rock District",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 27,
+    "angle": 2
+  },
+  {
+    "artist": "Pedro M. + BB",
+    "time": "16:00",
+    "stage": "Highway Stage",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 28,
+    "angle": -1
+  },
+  {
+    "artist": "JP Bonfá e Betta",
+    "time": "15:00",
+    "stage": "Highway Stage",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 29,
+    "angle": 3
+  },
+  {
+    "artist": "O. Mundana Refugi",
+    "time": "17:10",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 30,
+    "angle": 2
+  },
+  {
+    "artist": "Wallace Oliveira",
+    "time": "16:30",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 31,
+    "angle": -1
+  },
+  {
+    "artist": "Terra Celta",
+    "time": "15:15",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "02",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 32,
+    "angle": -2
+  },
+  {
+    "artist": "Post Malone",
+    "time": "00:10",
+    "stage": "Palco Mundo",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 33,
+    "angle": -2
+  },
+  {
+    "artist": "Marshmello",
+    "time": "22:20",
+    "stage": "Palco Mundo",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 34,
+    "angle": -1
+  },
+  {
+    "artist": "Jason Derulo",
+    "time": "20:10",
+    "stage": "Palco Mundo",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 35,
+    "angle": -2
+  },
+  {
+    "artist": "Alok",
+    "time": "18:00",
+    "stage": "Palco Mundo",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 36,
+    "angle": -3
+  },
+  {
+    "artist": "Racionais MC's",
+    "time": "21:15",
+    "stage": "Palco Sunset",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 37,
+    "angle": -3
+  },
+  {
+    "artist": "Criolo + Mayra Andrade",
+    "time": "19:05",
+    "stage": "Palco Sunset",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 38,
+    "angle": 2
+  },
+  {
+    "artist": "Xamã + Brô MC's",
+    "time": "16:55",
+    "stage": "Palco Sunset",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 39,
+    "angle": -2
+  },
+  {
+    "artist": "Papatinho e L7 + Hariel e Carol",
+    "time": "15:30",
+    "stage": "Palco Sunset",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 40,
+    "angle": -2
+  },
+  {
+    "artist": "Carola",
+    "time": "23:30",
+    "stage": "New Dance Order",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 41,
+    "angle": 1
+  },
+  {
+    "artist": "Groove Delight",
+    "time": "22:15",
+    "stage": "New Dance Order",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 42,
+    "angle": -3
+  },
+  {
+    "artist": "Kvsh",
+    "time": "20:45",
+    "stage": "New Dance Order",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 43,
+    "angle": -3
+  },
+  {
+    "artist": "Illusionize",
+    "time": "19:15",
+    "stage": "New Dance Order",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 44,
+    "angle": 3
+  },
+  {
+    "artist": "Victor Lou",
+    "time": "18:00",
+    "stage": "New Dance Order",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 45,
+    "angle": -1
+  },
+  {
+    "artist": "Alamanac",
+    "time": "17:00",
+    "stage": "New Dance Order",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 46,
+    "angle": 3
+  },
+  {
+    "artist": "Fluxzone",
+    "time": "16:00",
+    "stage": "New Dance Order",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 47,
+    "angle": 2
+  },
+  {
+    "artist": "PK convida Don Juan",
+    "time": "20:05",
+    "stage": "Espaço Favela",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 48,
+    "angle": 3
+  },
+  {
+    "artist": "Bin",
+    "time": "17:55",
+    "stage": "Espaço Favela",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 49,
+    "angle": -2
+  },
+  {
+    "artist": "Azula",
+    "time": "16:30",
+    "stage": "Espaço Favela",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 50,
+    "angle": 1
+  },
+  {
+    "artist": "Teto",
+    "time": "19:30",
+    "stage": "Palco Supernova",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 51,
+    "angle": 2
+  },
+  {
+    "artist": "MC Poze e Bielzin",
+    "time": "18:30",
+    "stage": "Palco Supernova",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 52,
+    "angle": -1
+  },
+  {
+    "artist": "Yunk Vino",
+    "time": "17:30",
+    "stage": "Palco Supernova",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 53,
+    "angle": -1
+  },
+  {
+    "artist": "Hiosaki",
+    "time": "16:30",
+    "stage": "Palco Supernova",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 54,
+    "angle": -2
+  },
+  {
+    "artist": "Ike",
+    "time": "15:30",
+    "stage": "Palco Supernova",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 55,
+    "angle": 1
+  },
+  {
+    "artist": "Wilson S. Tropical Blues",
+    "time": "19:10",
+    "stage": "Rock District",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 56,
+    "angle": -3
+  },
+  {
+    "artist": "Malvada",
+    "time": "17:00",
+    "stage": "Rock District",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 57,
+    "angle": -2
+  },
+  {
+    "artist": "Rock Street Band",
+    "time": "15:20",
+    "stage": "Rock District",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 58,
+    "angle": -3
+  },
+  {
+    "artist": "Betta",
+    "time": "16:00",
+    "stage": "Highway Stage",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 59,
+    "angle": 1
+  },
+  {
+    "artist": "Pedro M., BB e JP Bonfá",
+    "time": "15:00",
+    "stage": "Highway Stage",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 60,
+    "angle": 1
+  },
+  {
+    "artist": "O. Mundana Refugi",
+    "time": "17:10",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 61,
+    "angle": -3
+  },
+  {
+    "artist": "Wallace Oliveira",
+    "time": "16:30",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 62,
+    "angle": -1
+  },
+  {
+    "artist": "Terra Celta",
+    "time": "15:15",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "03",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 63,
+    "angle": 1
+  },
+  {
+    "artist": "Justin Bieber",
+    "time": "00:10",
+    "stage": "Palco Mundo",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 64,
+    "angle": -1
+  },
+  {
+    "artist": "Demi Lovato",
+    "time": "22:20",
+    "stage": "Palco Mundo",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 65,
+    "angle": 1
+  },
+  {
+    "artist": "Iza",
+    "time": "20:10",
+    "stage": "Palco Mundo",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 66,
+    "angle": -1
+  },
+  {
+    "artist": "Jota Quest",
+    "time": "18:00",
+    "stage": "Palco Mundo",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 67,
+    "angle": 1
+  },
+  {
+    "artist": "Gilberto Gil e família",
+    "time": "21:15",
+    "stage": "Palco Sunset",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 68,
+    "angle": 3
+  },
+  {
+    "artist": "Emicida, Drik, Rael e [...]",
+    "time": "19:05",
+    "stage": "Palco Sunset",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 69,
+    "angle": -3
+  },
+  {
+    "artist": "Luísa Sonza + Marina Sena",
+    "time": "16:55",
+    "stage": "Palco Sunset",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 70,
+    "angle": 1
+  },
+  {
+    "artist": "Matuê",
+    "time": "15:30",
+    "stage": "Palco Sunset",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 71,
+    "angle": 2
+  },
+  {
+    "artist": "Samhara",
+    "time": "23:15",
+    "stage": "New Dance Order",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 72,
+    "angle": -3
+  },
+  {
+    "artist": "Sickick",
+    "time": "22:15",
+    "stage": "New Dance Order",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 73,
+    "angle": 3
+  },
+  {
+    "artist": "Dubdogz",
+    "time": "20:45",
+    "stage": "New Dance Order",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 74,
+    "angle": -2
+  },
+  {
+    "artist": "Cat Dealers",
+    "time": "19:15",
+    "stage": "New Dance Order",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 75,
+    "angle": 2
+  },
+  {
+    "artist": "Gabe",
+    "time": "18:00",
+    "stage": "New Dance Order",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 76,
+    "angle": 1
+  },
+  {
+    "artist": "Öwnboss",
+    "time": "17:00",
+    "stage": "New Dance Order",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 77,
+    "angle": 2
+  },
+  {
+    "artist": "Maz",
+    "time": "16:00",
+    "stage": "New Dance Order",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 78,
+    "angle": -3
+  },
+  {
+    "artist": "Funk Orquestra",
+    "time": "20:05",
+    "stage": "Espaço Favela",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 79,
+    "angle": 3
+  },
+  {
+    "artist": "Buchecha",
+    "time": "17:55",
+    "stage": "Espaço Favela",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 80,
+    "angle": 3
+  },
+  {
+    "artist": "Taylan",
+    "time": "16:30",
+    "stage": "Espaço Favela",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 81,
+    "angle": 2
+  },
+  {
+    "artist": "Lil Whind",
+    "time": "19:30",
+    "stage": "Palco Supernova",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 82,
+    "angle": -1
+  },
+  {
+    "artist": "Wc no Beat, Felp e [...]",
+    "time": "17:30",
+    "stage": "Palco Supernova",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 83,
+    "angle": 1
+  },
+  {
+    "artist": "Evandro M. e Fabulous Tab",
+    "time": "19:10",
+    "stage": "Rock District",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 84,
+    "angle": -3
+  },
+  {
+    "artist": "Lucy Alves",
+    "time": "17:00",
+    "stage": "Rock District",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 85,
+    "angle": 2
+  },
+  {
+    "artist": "Fonk's Gang",
+    "time": "15:20",
+    "stage": "Rock District",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 86,
+    "angle": 2
+  },
+  {
+    "artist": "JP Bonfá",
+    "time": "16:00",
+    "stage": "Highway Stage",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 87,
+    "angle": 2
+  },
+  {
+    "artist": "Betta, Pedro M. e BB",
+    "time": "15:00",
+    "stage": "Highway Stage",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 88,
+    "angle": -3
+  },
+  {
+    "artist": "O. Mundana Refugi",
+    "time": "17:10",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 89,
+    "angle": -1
+  },
+  {
+    "artist": "Wallace Oliveira",
+    "time": "16:30",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 90,
+    "angle": -2
+  },
+  {
+    "artist": "Terra Celta",
+    "time": "15:15",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "04",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 91,
+    "angle": -1
+  },
+  {
+    "artist": "Guns N' Roses",
+    "time": "00:10",
+    "stage": "Palco Mundo",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 92,
+    "angle": -1
+  },
+  {
+    "artist": "Måneskin",
+    "time": "22:20",
+    "stage": "Palco Mundo",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 93,
+    "angle": 1
+  },
+  {
+    "artist": "Offspring",
+    "time": "20:10",
+    "stage": "Palco Mundo",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 94,
+    "angle": 2
+  },
+  {
+    "artist": "CPM 22",
+    "time": "18:00",
+    "stage": "Palco Mundo",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 95,
+    "angle": -1
+  },
+  {
+    "artist": "Jessie J",
+    "time": "21:15",
+    "stage": "Palco Sunset",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 96,
+    "angle": -2
+  },
+  {
+    "artist": "Corinne Bailey Rae",
+    "time": "19:05",
+    "stage": "Palco Sunset",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 97,
+    "angle": 3
+  },
+  {
+    "artist": "Gloria Groove",
+    "time": "16:55",
+    "stage": "Palco Sunset",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 98,
+    "angle": -3
+  },
+  {
+    "artist": "Duda Beat",
+    "time": "15:30",
+    "stage": "Palco Sunset",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 99,
+    "angle": -1
+  },
+  {
+    "artist": "Sarah Stenzel",
+    "time": "00:00",
+    "stage": "New Dance Order",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 100,
+    "angle": 1
+  },
+  {
+    "artist": "Ben Böhmer",
+    "time": "22:30",
+    "stage": "New Dance Order",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 101,
+    "angle": -2
+  },
+  {
+    "artist": "Gui Boratto",
+    "time": "21:30",
+    "stage": "New Dance Order",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 102,
+    "angle": -3
+  },
+  {
+    "artist": "Du Serena Vs Junior C",
+    "time": "20:00",
+    "stage": "New Dance Order",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 103,
+    "angle": 3
+  },
+  {
+    "artist": "Leo Janeiro Vs Nepal",
+    "time": "18:30",
+    "stage": "New Dance Order",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 104,
+    "angle": 3
+  },
+  {
+    "artist": "Marta Supernova",
+    "time": "17:00",
+    "stage": "New Dance Order",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 105,
+    "angle": -3
+  },
+  {
+    "artist": "Nu Azeite Live",
+    "time": "16:00",
+    "stage": "New Dance Order",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 106,
+    "angle": 2
+  },
+  {
+    "artist": "Drenna",
+    "time": "20:55",
+    "stage": "Espaço Favela",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 107,
+    "angle": 1
+  },
+  {
+    "artist": "TH4I convida Lia Clark",
+    "time": "17:55",
+    "stage": "Espaço Favela",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 108,
+    "angle": -1
+  },
+  {
+    "artist": "Izzra",
+    "time": "16:30",
+    "stage": "Espaço Favela",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 109,
+    "angle": 1
+  },
+  {
+    "artist": "Francisco, el Hombre",
+    "time": "19:30",
+    "stage": "Palco Supernova",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 110,
+    "angle": 2
+  },
+  {
+    "artist": "O Grilo",
+    "time": "18:30",
+    "stage": "Palco Supernova",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 111,
+    "angle": -3
+  },
+  {
+    "artist": "Scatolove",
+    "time": "17:30",
+    "stage": "Palco Supernova",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 112,
+    "angle": 1
+  },
+  {
+    "artist": "Cali",
+    "time": "16:30",
+    "stage": "Palco Supernova",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 113,
+    "angle": -3
+  },
+  {
+    "artist": "Rock Street Band",
+    "time": "20:30",
+    "stage": "Rock District",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 114,
+    "angle": -2
+  },
+  {
+    "artist": "Rodrigo Santos",
+    "time": "19:10",
+    "stage": "Rock District",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 115,
+    "angle": 1
+  },
+  {
+    "artist": "Stormsons",
+    "time": "17:00",
+    "stage": "Rock District",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 116,
+    "angle": 2
+  },
+  {
+    "artist": "Pedro M. + BB",
+    "time": "16:00",
+    "stage": "Highway Stage",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 117,
+    "angle": -3
+  },
+  {
+    "artist": "JP Bonfá + Betta",
+    "time": "15:00",
+    "stage": "Highway Stage",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 118,
+    "angle": 2
+  },
+  {
+    "artist": "Mariel & Crème de la Crème",
+    "time": "17:10",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 119,
+    "angle": -1
+  },
+  {
+    "artist": "Wallace Oliveira",
+    "time": "16:30",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 120,
+    "angle": 1
+  },
+  {
+    "artist": "Terra Celta",
+    "time": "15:15",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "08",
+    "month": "SET",
+    "weekDay": "Quinta",
+    "id": 121,
+    "angle": -1
+  },
+  {
+    "artist": "Green Day",
+    "time": "00:10",
+    "stage": "Palco Mundo",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 122,
+    "angle": 3
+  },
+  {
+    "artist": "Fall Out Boy",
+    "time": "22:20",
+    "stage": "Palco Mundo",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 123,
+    "angle": -3
+  },
+  {
+    "artist": "Billy Idol",
+    "time": "20:10",
+    "stage": "Palco Mundo",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 124,
+    "angle": 1
+  },
+  {
+    "artist": "Capital Inicial",
+    "time": "18:00",
+    "stage": "Palco Mundo",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 125,
+    "angle": 3
+  },
+  {
+    "artist": "Avril Lavigne",
+    "time": "21:15",
+    "stage": "Palco Sunset",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 126,
+    "angle": 1
+  },
+  {
+    "artist": "1985: A homenagem",
+    "time": "19:05",
+    "stage": "Palco Sunset",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 127,
+    "angle": 3
+  },
+  {
+    "artist": "Jão + convidado",
+    "time": "16:55",
+    "stage": "Palco Sunset",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 128,
+    "angle": -3
+  },
+  {
+    "artist": "Di Ferrero + Vitor Kley",
+    "time": "15:30",
+    "stage": "Palco Sunset",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 129,
+    "angle": 3
+  },
+  {
+    "artist": "Paranormal Attack C",
+    "time": "00:00",
+    "stage": "New Dance Order",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 130,
+    "angle": -2
+  },
+  {
+    "artist": "Vegas",
+    "time": "22:30",
+    "stage": "New Dance Order",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 131,
+    "angle": 1
+  },
+  {
+    "artist": "Rica Amaral",
+    "time": "21:30",
+    "stage": "New Dance Order",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 132,
+    "angle": 1
+  },
+  {
+    "artist": "Aly & Fila",
+    "time": "19:00",
+    "stage": "New Dance Order",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 133,
+    "angle": -3
+  },
+  {
+    "artist": "Antdot",
+    "time": "17:30",
+    "stage": "New Dance Order",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 134,
+    "angle": 2
+  },
+  {
+    "artist": "Meca",
+    "time": "16:00",
+    "stage": "New Dance Order",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 135,
+    "angle": 1
+  },
+  {
+    "artist": "MD Chefe e Domlaike",
+    "time": "20:05",
+    "stage": "Espaço Favela",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 136,
+    "angle": -3
+  },
+  {
+    "artist": "Choice",
+    "time": "17:55",
+    "stage": "Espaço Favela",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 137,
+    "angle": 2
+  },
+  {
+    "artist": "Marvvila",
+    "time": "16:30",
+    "stage": "Espaço Favela",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 138,
+    "angle": -1
+  },
+  {
+    "artist": "Supercombo",
+    "time": "19:30",
+    "stage": "Palco Supernova",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 139,
+    "angle": 2
+  },
+  {
+    "artist": "Castello Branco",
+    "time": "18:30",
+    "stage": "Palco Supernova",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 140,
+    "angle": -1
+  },
+  {
+    "artist": "Sebastianis-mos",
+    "time": "17:30",
+    "stage": "Palco Supernova",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 141,
+    "angle": -3
+  },
+  {
+    "artist": "Number Teddie",
+    "time": "16:30",
+    "stage": "Palco Supernova",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 142,
+    "angle": 3
+  },
+  {
+    "artist": "Rock Street Band",
+    "time": "20:30",
+    "stage": "Rock District",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 143,
+    "angle": -2
+  },
+  {
+    "artist": "Fernando Badauí",
+    "time": "19:10",
+    "stage": "Rock District",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 144,
+    "angle": 3
+  },
+  {
+    "artist": "Deia Cassali",
+    "time": "17:00",
+    "stage": "Rock District",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 145,
+    "angle": -2
+  },
+  {
+    "artist": "The Lokomotiv",
+    "time": "15:20",
+    "stage": "Rock District",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 146,
+    "angle": 3
+  },
+  {
+    "artist": "JP Bonfá",
+    "time": "16:00",
+    "stage": "Highway Stage",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 147,
+    "angle": -1
+  },
+  {
+    "artist": "Pedro M. + BB + Betta",
+    "time": "15:00",
+    "stage": "Highway Stage",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 148,
+    "angle": -2
+  },
+  {
+    "artist": "Mariel & Crème de la Crème",
+    "time": "17:10",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 149,
+    "angle": -3
+  },
+  {
+    "artist": "Wallace Oliveira",
+    "time": "16:30",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 150,
+    "angle": 3
+  },
+  {
+    "artist": "Terra Celta",
+    "time": "15:15",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "09",
+    "month": "SET",
+    "weekDay": "Sexta",
+    "id": 151,
+    "angle": 2
+  },
+  {
+    "artist": "Coldplay",
+    "time": "00:10",
+    "stage": "Palco Mundo",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 152,
+    "angle": 3
+  },
+  {
+    "artist": "Camila Cabello",
+    "time": "22:10",
+    "stage": "Palco Mundo",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 153,
+    "angle": 3
+  },
+  {
+    "artist": "Bastille",
+    "time": "20:10",
+    "stage": "Palco Mundo",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 154,
+    "angle": 2
+  },
+  {
+    "artist": "Djavan",
+    "time": "18:00",
+    "stage": "Palco Mundo",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 155,
+    "angle": -3
+  },
+  {
+    "artist": "CeeLo Green",
+    "time": "21:15",
+    "stage": "Palco Sunset",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 156,
+    "angle": -2
+  },
+  {
+    "artist": "Maria Rita + convidado",
+    "time": "19:05",
+    "stage": "Palco Sunset",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 157,
+    "angle": -2
+  },
+  {
+    "artist": "Gilsons + Jorge Aragão",
+    "time": "16:55",
+    "stage": "Palco Sunset",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 158,
+    "angle": -3
+  },
+  {
+    "artist": "Bala Desejo + convidado",
+    "time": "15:30",
+    "stage": "Palco Sunset",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 159,
+    "angle": 2
+  },
+  {
+    "artist": "Curol",
+    "time": "23:45",
+    "stage": "New Dance Order",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 160,
+    "angle": -1
+  },
+  {
+    "artist": "Gabriel Boni",
+    "time": "22:30",
+    "stage": "New Dance Order",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 161,
+    "angle": -1
+  },
+  {
+    "artist": "Makj",
+    "time": "21:30",
+    "stage": "New Dance Order",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 162,
+    "angle": 1
+  },
+  {
+    "artist": "The Fish House",
+    "time": "20:00",
+    "stage": "New Dance Order",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 163,
+    "angle": -1
+  },
+  {
+    "artist": "Chemical Surf",
+    "time": "18:30",
+    "stage": "New Dance Order",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 164,
+    "angle": -1
+  },
+  {
+    "artist": "Bruno Be Vs Fancy Inc",
+    "time": "17:00",
+    "stage": "New Dance Order",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 165,
+    "angle": 2
+  },
+  {
+    "artist": "Alexiz Bcx",
+    "time": "16:00",
+    "stage": "New Dance Order",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 166,
+    "angle": 1
+  },
+  {
+    "artist": "Ferrugem e Thiaguinho",
+    "time": "20:05",
+    "stage": "Espaço Favela",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 167,
+    "angle": 2
+  },
+  {
+    "artist": "Orochi",
+    "time": "17:55",
+    "stage": "Espaço Favela",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 168,
+    "angle": -1
+  },
+  {
+    "artist": "El Pavuna",
+    "time": "16:30",
+    "stage": "Espaço Favela",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 169,
+    "angle": 2
+  },
+  {
+    "artist": "Jovem Dionísio",
+    "time": "19:30",
+    "stage": "Palco Supernova",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 170,
+    "angle": 3
+  },
+  {
+    "artist": "Daparte",
+    "time": "18:30",
+    "stage": "Palco Supernova",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 171,
+    "angle": -1
+  },
+  {
+    "artist": "João Napoli e Ananda",
+    "time": "17:30",
+    "stage": "Palco Supernova",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 172,
+    "angle": -2
+  },
+  {
+    "artist": "Macacko",
+    "time": "16:30",
+    "stage": "Palco Supernova",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 173,
+    "angle": -3
+  },
+  {
+    "artist": "Rock Street Band",
+    "time": "20:30",
+    "stage": "Rock District",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 174,
+    "angle": -3
+  },
+  {
+    "artist": "All Stars Rock Band",
+    "time": "19:00",
+    "stage": "Rock District",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 175,
+    "angle": -2
+  },
+  {
+    "artist": "Thiago Fragoso",
+    "time": "17:00",
+    "stage": "Rock District",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 176,
+    "angle": -1
+  },
+  {
+    "artist": "Pedro M. + BB",
+    "time": "16:00",
+    "stage": "Highway Stage",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 177,
+    "angle": 1
+  },
+  {
+    "artist": "Betta + JP Bonfá",
+    "time": "15:00",
+    "stage": "Highway Stage",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 178,
+    "angle": 2
+  },
+  {
+    "artist": "Mariel & Crème de la Crème",
+    "time": "17:10",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 179,
+    "angle": 3
+  },
+  {
+    "artist": "Wallace Oliveira",
+    "time": "16:30",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 180,
+    "angle": -1
+  },
+  {
+    "artist": "Terra Celta",
+    "time": "15:15",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "10",
+    "month": "SET",
+    "weekDay": "Sábado",
+    "id": 181,
+    "angle": -1
+  },
+  {
+    "artist": "Dua Lipa",
+    "time": "00:10",
+    "stage": "Palco Mundo",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 182,
+    "angle": -3
+  },
+  {
+    "artist": "Megan Thee Stallion",
+    "time": "22:20",
+    "stage": "Palco Mundo",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 183,
+    "angle": -1
+  },
+  {
+    "artist": "Rita Ora",
+    "time": "20:10",
+    "stage": "Palco Mundo",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 184,
+    "angle": 2
+  },
+  {
+    "artist": "Ivete Sangalo",
+    "time": "18:00",
+    "stage": "Palco Mundo",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 185,
+    "angle": 1
+  },
+  {
+    "artist": "Ludmilla",
+    "time": "21:15",
+    "stage": "Palco Sunset",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 186,
+    "angle": 3
+  },
+  {
+    "artist": "Macy Gray",
+    "time": "19:05",
+    "stage": "Palco Sunset",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 187,
+    "angle": -3
+  },
+  {
+    "artist": "Power! Elza Vive",
+    "time": "16:55",
+    "stage": "Palco Sunset",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 188,
+    "angle": -1
+  },
+  {
+    "artist": "Liniker + Luedji Luna",
+    "time": "15:30",
+    "stage": "Palco Sunset",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 189,
+    "angle": 3
+  },
+  {
+    "artist": "Eli Iwasa",
+    "time": "00:00",
+    "stage": "New Dance Order",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 190,
+    "angle": 3
+  },
+  {
+    "artist": "Blond:Ish",
+    "time": "22:30",
+    "stage": "New Dance Order",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 191,
+    "angle": 2
+  },
+  {
+    "artist": "Ella De Vuono",
+    "time": "21:00",
+    "stage": "New Dance Order",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 192,
+    "angle": 3
+  },
+  {
+    "artist": "Anabel Englund",
+    "time": "19:30",
+    "stage": "New Dance Order",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 193,
+    "angle": -1
+  },
+  {
+    "artist": "Aline Rocha",
+    "time": "18:00",
+    "stage": "New Dance Order",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 194,
+    "angle": 3
+  },
+  {
+    "artist": "Mary Olivetti",
+    "time": "16:00",
+    "stage": "New Dance Order",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 195,
+    "angle": 3
+  },
+  {
+    "artist": "Lexa",
+    "time": "20:05",
+    "stage": "Espaço Favela",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 196,
+    "angle": -3
+  },
+  {
+    "artist": "Azzy",
+    "time": "17:55",
+    "stage": "Espaço Favela",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 197,
+    "angle": -1
+  },
+  {
+    "artist": "Ella Fernandes",
+    "time": "16:30",
+    "stage": "Espaço Favela",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 198,
+    "angle": -3
+  },
+  {
+    "artist": "Priscilla Alcântara",
+    "time": "19:30",
+    "stage": "Palco Supernova",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 199,
+    "angle": 2
+  },
+  {
+    "artist": "Bianca",
+    "time": "18:30",
+    "stage": "Palco Supernova",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 200,
+    "angle": -1
+  },
+  {
+    "artist": "Mariah Nala",
+    "time": "17:30",
+    "stage": "Palco Supernova",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 201,
+    "angle": 2
+  },
+  {
+    "artist": "Muse Maya",
+    "time": "16:30",
+    "stage": "Palco Supernova",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 202,
+    "angle": 2
+  },
+  {
+    "artist": "Rock Street Band",
+    "time": "20:30",
+    "stage": "Rock District",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 203,
+    "angle": 2
+  },
+  {
+    "artist": "Flausino e Sideral",
+    "time": "19:10",
+    "stage": "Rock District",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 204,
+    "angle": -1
+  },
+  {
+    "artist": "Di Ferreiro",
+    "time": "17:00",
+    "stage": "Rock District",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 205,
+    "angle": -1
+  },
+  {
+    "artist": "Pedro M. + BB",
+    "time": "16:00",
+    "stage": "Highway Stage",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 206,
+    "angle": 2
+  },
+  {
+    "artist": "Betta + JP Bonfá",
+    "time": "15:00",
+    "stage": "Highway Stage",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 207,
+    "angle": 3
+  },
+  {
+    "artist": "Mariel & Crème de la Crème",
+    "time": "17:10",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 208,
+    "angle": 1
+  },
+  {
+    "artist": "Wallace Oliveira",
+    "time": "16:30",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 209,
+    "angle": 3
+  },
+  {
+    "artist": "Terra Celta",
+    "time": "15:15",
+    "stage": "Rock Street Mediterrâneo",
+    "day": "11",
+    "month": "SET",
+    "weekDay": "Domingo",
+    "id": 210,
+    "angle": -3
+  }
+]
